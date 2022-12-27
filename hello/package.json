@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "wasmedge-core": "^0.9.0"
+  }
+}
